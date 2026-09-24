@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="212" viewBox="0 0 960 212" role="img" aria-labelledby="title desc">
+<title id="title">RepoScout</title><desc id="desc">GitHub-проекты. Поиск. Избранное. Пагинация · кеш · отмена запросов</desc>
+<rect x="1" y="1" width="958" height="210" rx="20" fill="#142232" stroke="#34495F"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="34" y="38" font-size="12" letter-spacing="2" font-weight="700" fill="#C7B7FF">ANDROID · NETWORK</text>
+<text x="32" y="90" font-size="39" font-weight="700" fill="#F3F6FC">RepoScout</text>
+<text x="35" y="125" font-size="18" fill="#BBC9D9">GitHub-проекты. Поиск. Избранное.</text>
+<text x="35" y="175" font-size="13" letter-spacing="1" fill="#C7B7FF">KOTLIN / COMPOSE / RETROFIT / ROOM</text>
+<path d="M596 35V177" stroke="#34495F"/>
+<text x="631" y="72" font-size="22" font-weight="600" fill="#F3F6FC">Сеть и асинхронность</text>
+<text x="632" y="108" font-size="15" fill="#A3B8CC">Пагинация · кеш · отмена запросов</text>
+<text x="632" y="165" font-size="16" font-weight="600" fill="#C7B7FF">Открыть репозиторий →</text></g></svg>
