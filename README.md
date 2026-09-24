@@ -1,3 +1,5 @@
+![RepoScout](docs/cover.svg)
+
 # RepoScout · Android
 
 **Найди код. Разберись в идее.**
