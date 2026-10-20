@@ -6,7 +6,7 @@
 
 [![Android CI](https://github.com/ASimonyan1/reposcout-android/actions/workflows/android.yml/badge.svg)](https://github.com/ASimonyan1/reposcout-android/actions/workflows/android.yml)
 
-Клиент GitHub Search API: поиск открытых репозиториев, страницы результатов и локальные закладки. Учебный проект, подготовленный с помощью AI-инструментов. Дополняет [StudyFlow](https://github.com/ASimonyan1/studyflow-android) сетевым взаимодействием и обработкой асинхронных сценариев.
+Клиент GitHub Search API: поиск открытых репозиториев, страницы результатов и локальные закладки. Учебный проект. Дополняет [StudyFlow](https://github.com/ASimonyan1/studyflow-android) сетевым взаимодействием и обработкой асинхронных сценариев.
 
 ## Возможности
 
